@@ -1,0 +1,6 @@
+## Web Programming IPS (23rd January 2024)
+- [Page 1: Border Properties](23JAN24_1.html)
+- [Page 2: Padding Properties](23JAN24_2.html)
+- [Page 3: Margin Properties](23JAN24_3.html)
+- [Page 4: FontAwesome Icons](23JAN24_4.html)
+- [Page 5: CSS Animations](23JAN24_5.html)
